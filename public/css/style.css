@@ -1,0 +1,26 @@
+p{
+    margin-bottom:1rem;
+    font-size:1.2rem;
+}
+p.small{
+    font-size:1rem;
+}
+
+
+.page-header {
+    height: 90vh;
+    background-position: center center;
+    background-size: cover;
+    margin:auto;
+    padding: 0;
+    border: 0;
+    display: flex;
+    align-items: center;
+    color: white;
+  }
+.page-header h2.title{
+    color:white;
+    margin: 1rem 0;
+    line-height: 1.6em;
+}
+
